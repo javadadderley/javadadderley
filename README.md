@@ -20,8 +20,8 @@ I am currently seeking a position as a Tier 1 Security Operations Center (SOC) A
 - DBeaver for SQL.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
   
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Certificates
+<img src="shield-icon.png"/>
 
 Every screenshot should have some text explaining what the screenshot is about.
 
