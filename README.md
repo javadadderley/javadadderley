@@ -1,17 +1,17 @@
 ## Hi there my name is Javad Adderley 👋
-I am studying Cybersecurity at Brain Station, leveraging six years of experience in threat recognition and risk management from my previous role at an airport. My background in identifying security threats and protecting personal information enhances my ability to address cybersecurity challenges effectively.
+I studied Cybersecurity at Brain Station, leveraging six years of experience in threat recognition and risk management from my previous role at an airport. My background in identifying security threats and protecting personal information enhances my ability to address cybersecurity challenges effectively.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javad%20Adderley-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javad-adderley-086b74271/)
 ## Objective
 
-I am currently seeking a position as a Tier 1 Security Operations Center (SOC) Analyst. In this role, I aim to leverage my skills and knowledge in cybersecurity to effectively monitor, analyze, and respond to security incidents.
+I am currently seeking a position as a entry level Cyber Security Analyst. In this role, I aim to leverage my skills and knowledge in cybersecurity to effectively monitor, analyze, and respond to security incidents.
 
 ### Skills Learned
 
 - Knowlegde of Risk management, Incident Response, Threat Intelligence, Data Protection
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Knowledge of NIST framework.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 - Computer languages (such as HTML and Python)
 
