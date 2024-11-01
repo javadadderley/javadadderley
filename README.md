@@ -18,12 +18,14 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 ### Tools Used
 
 - DBeaver for SQL.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-  
+
 ## Certificates
 [![Cyber Security Certificate](https://img.shields.io/badge/Cyber%20Security%20Certificate-blue)](https://github.com/user-attachments/files/17603505/Javad.Cyber.Security.Certificate.pdf)
+[![Cyber Security Certificate](https://img.shields.io/badge/Cyber%20Security%20Connect&Protect-red)](https://github.com/user-attachments/files/17604299/Javad.Certificate.connect.and.protect.coursera.pdf)
 
-Every screenshot should have some text explaining what the screenshot is about.
+
+
+## Projects
 
 Example below.
 
