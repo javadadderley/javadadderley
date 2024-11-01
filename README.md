@@ -21,7 +21,8 @@ I am currently seeking a position as a Tier 1 Security Operations Center (SOC) A
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
   
 ## Certificates
-<img src="shield-icon.png"/>
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-Cyber%20Security-blue)](./mnt/data/Javad%20Cyber%20Security%20Certificate.pdf)
+
 
 Every screenshot should have some text explaining what the screenshot is about.
 
