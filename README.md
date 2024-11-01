@@ -28,6 +28,3 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 [TBG Financial Institution - project.pdf](https://github.com/user-attachments/files/17604427/TBG.Financial.Institution.-.project.pdf)
 
 
-Example below.
-
-*Ref 1: Network Diagram*
