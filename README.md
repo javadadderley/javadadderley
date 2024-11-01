@@ -1,5 +1,5 @@
 ## Hi there my name is Javad Adderley 👋
-I studied Cybersecurity at Brain Station, leveraging six years of experience in threat recognition and risk management from my previous role at an airport. My background in identifying security threats and protecting personal information enhances my ability to address cybersecurity challenges effectively.
+I studied and completed my Cybersecurity Certificate course at Brain Station. Leveraging six years of experience in threat recognition and risk management from my previous role at an airport. My background in identifying security threats and protecting personal information enhances my ability to address cybersecurity challenges effectively.
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javad%20Adderley-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javad-adderley-086b74271/)
 ## Objective
