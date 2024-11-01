@@ -20,8 +20,8 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 - DBeaver for SQL.
 
 ## Certificates
-[![Cyber Security Certificate](https://img.shields.io/badge/Cyber%20Security%20Certificate-blue)](https://github.com/user-attachments/files/17603505/Javad.Cyber.Security.Certificate.pdf)
-[![Cyber Security Certificate](https://img.shields.io/badge/Cyber%20Security%20Connect&Protect-red)](https://github.com/user-attachments/files/17604299/Javad.Certificate.connect.and.protect.coursera.pdf)
+[![Cyber Security Certificate](https://img.shields.io/badge/Brainstation%20Cybersecurity%20Certificate-blue)](https://github.com/user-attachments/files/17603505/Javad.Cyber.Security.Certificate.pdf)
+[![Cyber Security Certificate](https://img.shields.io/badge/Cousera%20Connect&Protect-red)](https://github.com/user-attachments/files/17604299/Javad.Certificate.connect.and.protect.coursera.pdf)
 
 
 
