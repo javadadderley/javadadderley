@@ -21,11 +21,12 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 
 ## Certificates
 [![Cyber Security Certificate](https://img.shields.io/badge/Brainstation%20Cybersecurity%20Certificate-blue)](https://github.com/user-attachments/files/17603505/Javad.Cyber.Security.Certificate.pdf)
-[![Cyber Security Certificate](https://img.shields.io/badge/Cousera%20Connect&Protect-red)](https://github.com/user-attachments/files/17604299/Javad.Certificate.connect.and.protect.coursera.pdf)
-
+[![Cyber Security Certificate](https://img.shields.io/badge/Coursera%20Connect&Protect-red)](https://github.com/user-attachments/files/17604299/Javad.Certificate.connect.and.protect.coursera.pdf)
 
 
 ## Projects
+[TBG Financial Institution - project.pdf](https://github.com/user-attachments/files/17604427/TBG.Financial.Institution.-.project.pdf)
+
 
 Example below.
 
