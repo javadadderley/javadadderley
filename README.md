@@ -25,7 +25,6 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 
 
 ## Projects
-[TBG Financial Institution - project.pdf](https://github.com/user-attachments/files/17604427/TBG.Financial.Institution.-.project.pdf)
 [![TBG Financial Institution](https://img.shields.io/badge/TBG%20&Project-blue)](https://github.com/user-attachments/files/17604427/TBG.Financial.Institution.-.project.pdf)
 
 
