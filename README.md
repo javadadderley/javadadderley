@@ -14,6 +14,7 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 - Knowledge of NIST framework.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 - Computer languages (such as HTML and Python)
+- Microsoft Office (Word, Excel, and PowerPoint)
 
 ### Tools Used
 
