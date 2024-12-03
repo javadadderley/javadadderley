@@ -10,7 +10,7 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 
 - Knowlegde of Risk management, Incident Response, Threat Intelligence, Data Protection
 - Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
+- Capture, save, and create display filter to observe packets on wireshark.
 - Knowledge of NIST framework.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 - Computer languages (such as HTML and Python)
@@ -19,6 +19,7 @@ I am currently seeking a position as a entry level Cyber Security Analyst. In th
 ### Tools Used
 
 - DBeaver for SQL.
+- Wireshark
 
 ## Certificates
 [![Cyber Security Certificate](https://img.shields.io/badge/Brainstation%20Cybersecurity%20Certificate-blue)](https://github.com/user-attachments/files/17603505/Javad.Cyber.Security.Certificate.pdf)
