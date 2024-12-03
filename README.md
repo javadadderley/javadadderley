@@ -1,18 +1,20 @@
 ## Hi there my name is Javad Adderley 👋
-I studied and completed my Cybersecurity Certificate course at Brain Station. Leveraging six years of experience in threat recognition and risk management from my previous role at an airport. My background in identifying security threats and protecting personal information enhances my ability to address cybersecurity challenges effectively.
+I am currently studying Cyber Security part-time. I have completed the following courses:
+
+-  Cybersecurity
+ Certification
+ (CC™) course at Brain Station.
+- Google Cybersecurity at Coursera.
+- 
+
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javad%20Adderley-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javad-adderley-086b74271/)
 ## Objective
 
-I am currently seeking a position as a entry level Cyber Security Analyst. In this role, I aim to leverage my skills and knowledge in cybersecurity to effectively monitor, analyze, and respond to security incidents.
+I am currently seeking a position as a entry level Cyber Security Analyst.
+### Skills
 
-### Skills Learned
-
-- Knowlegde of Risk management, Incident Response, Threat Intelligence, Data Protection
-- Proficiency in analyzing and interpreting network logs.
-- Capture, save, and create display filter to observe packets on wireshark.
-- Knowledge of NIST framework.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Network traffic analysis using tcpdump and Wireshark
 - Computer languages (such as HTML and Python)
 - Microsoft Office (Word, Excel, and PowerPoint)
 
