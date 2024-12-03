@@ -5,7 +5,6 @@ I am currently studying Cyber Security part-time. I have completed the following
  Certification
  (CC™) course at Brain Station.
 - Google Cybersecurity at Coursera.
-- 
 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javad%20Adderley-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javad-adderley-086b74271/)
